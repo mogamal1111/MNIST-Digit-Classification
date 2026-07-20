@@ -85,7 +85,7 @@ The CNN model consists of:
 
 After training, the model was evaluated using the MNIST test dataset.
 
-Total accuracy = 98.95%
+Test accuracy = 98.95%
 
 The following screenshot shows the final test accuracy achieved by the model.
 
