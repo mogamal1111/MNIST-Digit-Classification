@@ -89,7 +89,7 @@ Test accuracy = 99.06%
 
 The following screenshot shows the final test accuracy achieved by the model.
 
-![Test Accuracy](images/test_accuracy.png)
+![Test Accuracy](images/test_accuracy_.png)
 ---
 
 ## Custom Prediction
