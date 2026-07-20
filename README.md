@@ -1,4 +1,4 @@
-# MNIST Digit Classification using Convolutional Neural Networks (CNN)
+# MNIST Digit Classification using Convolutional Neural Networks (CNN) 
 
 ## Project Overview
 
