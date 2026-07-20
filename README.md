@@ -130,8 +130,8 @@ These images are available in the **test_images** folder.
 
 **Mohamed Gamal**
 
-Machine Learning & Deep Learning Enthusiast
+Machine Learning & Deep Learning Engineer
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/mogamal1111
 
-LinkedIn: https://www.linkedin.com/in/YourUsername
+LinkedIn: https://www.linkedin.com/in/mohamed-gamal-85795735b
